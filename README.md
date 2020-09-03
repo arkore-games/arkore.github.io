@@ -1,4 +1,3 @@
-# PRIVACY POLICY
 This privacy policy governs your use of the software application DRUMSHOT XL (“Application”) for mobile devices that was created by Arkore Games.
 
 ## What information does the Application obtain and how is it used?
