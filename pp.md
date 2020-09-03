@@ -26,7 +26,7 @@ We do not use the Application to knowingly solicit data from or market to childr
 # Changes
 This Privacy Policy may be updated from time to time for any reason. You may review updates to our Privacy Policy at any time via links on Google Play account. You are advised to consult this Privacy Policy regularly for any changes, as continued use is deemed approval of all changes.
 
-If I make material changes to this policy, I will notify you by publishing a revised Privacy Policy or as required by law. You agree to review the Privacy Policy periodically so that you are aware of any modifications. You agree that your continued use of the Application after we publish a revised Privacy Policy or provide a notice on our applications constitutes your acceptance of the revised Privacy Policy. If you do not agree with the terms of the Privacy Policy, you should not use the Application.
+If we make material changes to this policy, we will notify you by publishing a revised Privacy Policy or as required by law. You agree to review the Privacy Policy periodically so that you are aware of any modifications. You agree that your continued use of the Application after we publish a revised Privacy Policy or provide a notice on our applications constitutes your acceptance of the revised Privacy Policy. If you do not agree with the terms of the Privacy Policy, you should not use the Application.
 
 # Contact us
 If you have any questions regarding privacy while using the Application, or have questions about our practices, please contact us via email at arkore.games@gmail.com.
